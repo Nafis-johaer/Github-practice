@@ -1,0 +1,20 @@
+html{
+
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+body{
+  background-color: antiquewhite;
+   font-family: "Open Sans", sans-serif;
+   text-align: center;
+}
+li a{
+  text-decoration: none;
+  list-style-type: none;
+}
+li {
+
+  list-style-type: none;
+}
